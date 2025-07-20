@@ -15,6 +15,10 @@ A simple yet visually stunning animated profile card generator built using HTML,
 
 ![Demo Preview](demo-screenshot.png) <!-- You can add a screenshot if available -->
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live project](https://profile-card-generator.tiiny.site)
+
 ## 🛠️ Technologies Used
 
 - HTML5
